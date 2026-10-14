@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TORiK</title>
+<style>
+body{margin:0;min-height:100vh;display:flex;justify-content:center;align-items:center;background:radial-gradient(circle at top,#1a1a2e,#000);font-family:Arial,sans-serif;color:white;text-align:center}
+.box{padding:30px}
+h1{font-size:70px;letter-spacing:10px;margin:0;background:linear-gradient(90deg,#00f5ff,#ff00ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;filter:drop-shadow(0 0 15px #ff00ff)}
+p{margin-top:20px;font-size:14px;line-height:1.8;color:#ccc;max-width:350px}
+.small{margin-top:30px;font-size:12px;opacity:0.6}
+</style>
+</head>
+<body>
+<div class="box">
+<h1>TORiK</h1>
+<p>একটা চশমা কিভাবে বানাবো?<br>
+1. প্রথমে পাতলা তার বা প্লাস্টিক নাও<br>
+2. গোল করে দুটো ফ্রেম বানাও<br>
+3. মাঝখানে নাকের জন্য জয়েন্ট দাও<br>
+4. দুই পাশে কানের জন্য ডান্ডি লাগাও<br>
+5. ফ্রেমে স্বচ্ছ প্লাস্টিক বা কাচ লাগাও</p>
+<div class="small">Designed by TORiK</div>
+</div>
+</body>
+</html>
